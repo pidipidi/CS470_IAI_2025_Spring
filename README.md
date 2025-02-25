@@ -16,14 +16,6 @@
 - [Assignment 4](https://githubtocolab.com/pidipidi/CS470_IAI_20025_Spring/blob/main/assignment_4/CS470_Assignment4_problem.ipynb/)
 - [Assignment 5](https://github.com/pidipidi/CS470_IAI_20025_Spring/blob/main/assignment_5/src/py_astar_planner/src/py_astar_planner/astar.py)
 
-# Assignment Solution Links (must be removed before distribution)
-- [Assignment 1](https://githubtocolab.com/pidipidi/CS470_IAI_20025_Spring/blob/main/assignment_1/mlp_solution.ipynb/)
-- [Assignment 2-1](https://githubtocolab.com/pidipidi/CS470_IAI_20025_Spring/blob/main/assignment_2/CNN_solution_1.ipynb/)
-- [Assignment 2-2](https://githubtocolab.com/pidipidi/CS470_IAI_20025_Spring/blob/main/assignment_2/CNN_solution_2.ipynb/)
-- [Assignment 2-3](https://githubtocolab.com/pidipidi/CS470_IAI_20025_Spring/blob/main/assignment_2/CNN_solution_3.ipynb/)
-- [Assignment 3](https://githubtocolab.com/pidipidi/CS470_IAI_20025_Spring/blob/main/assignment_3/CS470_Assignment3_solution.ipynb/)
-- [Assignment 4](https://githubtocolab.com/pidipidi/CS470_IAI_20025_Spring/blob/main/assignment_4/CS470_Assignment_4_sol.ipynb/)
-- [Assignment 5](assignment_5/README.md)
 
 # Quiz
 - [Tutorial Quiz 1](https://githubtocolab.com/pidipidi/CS470_IAI_2025_Spring/blob/main/tutorial_1/MLP_tutorial_quiz_quest.ipynb/)

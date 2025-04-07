@@ -4,7 +4,7 @@
 
 # Tutorial Links
 - Tutorial 1: [1-1](https://githubtocolab.com/pidipidi/CS470_IAI_2025_Spring/blob/main/tutorial_1/MLP_tutorial_1_1.ipynb/), [1-2](https://githubtocolab.com/pidipidi/CS470_IAI_2025_Spring/blob/main/tutorial_1/MLP_tutorial_1_2.ipynb/), [1-3](https://githubtocolab.com/pidipidi/CS470_IAI_2025_Spring/blob/main/tutorial_1/MLP_tutorial_1_3.ipynb/)
-- [Tutorial 2](https://githubtocolab.com/pidipidi/CS470_IAI_2025_Spring/blob/main/tutorial_2/RL_tutorial.ipynb/)
+- [Tutorial 2](https://githubtocolab.com/pidipidi/CS470_IAI_2025_Spring/blob/main/tutorial_2/cs470_tutorial2.ipynb/)
 - [Tutorial 3](https://github.com/pidipidi/CS470_IAI_2025_Spring/blob/main/tutorial_3/README.md)
 
 # Assignment Links
@@ -18,7 +18,7 @@
 
 # Quiz
 - [Tutorial Quiz 1](https://githubtocolab.com/pidipidi/CS470_IAI_2025_Spring/blob/main/tutorial_1/MLP_tutorial_quiz_quest.ipynb/)
-- [Tutorial Quiz 2](https://githubtocolab.com/pidipidi/CS470_IAI_2025_Spring/blob/main/tutorial_2/tutorial2_quiz.ipynb/)
+- [Tutorial Quiz 2](https://githubtocolab.com/pidipidi/CS470_IAI_2025_Spring/blob/main/tutorial_2/RL_tutorial_quiz_problem.ipynb/)
 
 # ETC
 For educational purpose only. This software cannot be used for any re-distribution with or without modification.

@@ -11,7 +11,7 @@
 - [Assignment 1-1](https://githubtocolab.com/pidipidi/CS470_IAI_2025_Spring/blob/main/assignment_1/problem_1.ipynb)
 - [Assignment 1-2](https://githubtocolab.com/pidipidi/CS470_IAI_2025_Spring/blob/main/assignment_1/problem_2.ipynb)
 - [Assignment 2](https://githubtocolab.com/pidipidi/CS470_IAI_2025_Spring/blob/main/assignment_2/CS470_Assignment2_problem.ipynb/)
-- [Assignment 3](https://githubtocolab.com/pidipidi/CS470_IAI_2025_Spring/blob/main/assignment_3/CS470_Assignment3_problem.ipynb/)
+- [Assignment 3](https://githubtocolab.com/pidipidi/cs470_IAI_2025_Spring/blob/main/assignment_3/assignment3_problem.ipynb)
 - [Assignment 4](https://githubtocolab.com/pidipidi/CS470_IAI_2025_Spring/blob/main/assignment_4/CS470_Assignment4_problem.ipynb/)
 - [Assignment 5](https://github.com/pidipidi/CS470_IAI_2025_Spring/blob/main/assignment_5/src/py_astar_planner/src/py_astar_planner/astar.py)
 
